@@ -1,5 +1,5 @@
 {
-    "name": "lzsen/memory-table",
+    "name": "lzsen/hyperf-memory-table",
     "type": "library",
     "license": "MIT",
     "keywords": [
